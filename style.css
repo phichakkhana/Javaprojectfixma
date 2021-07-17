@@ -1,0 +1,15 @@
+/* Bitmap */
+
+image { position: absolute;
+left: 3.61%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(Image.png);
+position: absolute;
+width: 101px;
+height: 74px;
+left: 49px;
+top: -7px;
+}
